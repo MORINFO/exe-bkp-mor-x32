@@ -1,7 +1,7 @@
 {
   "name": "exe-bkp-mor",
   "description": "Instalar o Git no Servidor",
-  "version": "1.0.2x32",
+  "version": "1.0.3x32",
   "main": "index.js",
   "devDependencies": {},
   "dependencies": {
